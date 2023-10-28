@@ -6,3 +6,5 @@ DOMAIN-KEYWORD,2o7
 DOMAIN-KEYWORD,maxymiser
 IP-CIDR,140.0.0.0/8,no-resolve
 IP-CIDR,146.56.0.0/16,no-resolve
+IP-CIDR,158.179.0.0/16,no-resolve
+IP-CIDR,152.67.0.0/16,no-resolve
