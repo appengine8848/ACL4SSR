@@ -2,6 +2,9 @@ DOMAIN,pixel.zprk.io
 DOMAIN,btrace.qq.com
 DOMAIN,fonts.gstatic.com
 IP-CIDR,5.5.5.5/32
+DOMAIN-SUFFIX,hostbuf.com
+
+
 
 # facebook
 DOMAIN-SUFFIX,facebook.com
