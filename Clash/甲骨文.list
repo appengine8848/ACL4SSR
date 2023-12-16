@@ -3,6 +3,7 @@ DOMAIN-KEYWORD,oraclecloud
 DOMAIN-KEYWORD,oracleinfinity
 DOMAIN-KEYWORD,trustarc
 DOMAIN-KEYWORD,2o7
+DOMAIN-KEYWORD,oci
 DOMAIN-KEYWORD,maxymiser
 IP-CIDR,140.0.0.0/8,no-resolve
 IP-CIDR,146.56.0.0/16,no-resolve
