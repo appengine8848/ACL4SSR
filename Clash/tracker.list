@@ -1,6 +1,7 @@
 DOMAIN,pixel.zprk.io
 DOMAIN,btrace.qq.com
 DOMAIN,fonts.gstatic.com
+DOMAIN-SUFFIX,mmstat.com
 
 #finalshell
 IP-CIDR,5.5.5.5/32
