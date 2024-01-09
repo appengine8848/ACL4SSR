@@ -1,0 +1,2 @@
+AND,((NETWORK,UDP),(PROCESS-NAME,Google Chrome Helper))
+AND,((NETWORK,UDP),(PROCESS-NAME,Microsoft Edge Helper))
