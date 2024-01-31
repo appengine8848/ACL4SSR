@@ -79,3 +79,4 @@ PROCESS-NAME,xdm.exe
 PROCESS-NAME,xdman
 PROCESS-NAME,xdman.exe
 PROCESS-NAME,mosdns
+PROCESS-NAME,com.metacubex.ClashX.ProxyConfigHelper.meta
