@@ -2,6 +2,9 @@
 DOMAIN,pixel.zprk.io
 DOMAIN,btrace.qq.com
 DOMAIN-SUFFIX,mmstat.com
+DOMAIN-KEYWORD,linkedin
+DOMAIN-KEYWORD,sogo
+DOMAIN-KEYWORD,dianping
 
 #cnouyi
 DOMAIN-KEYWORD,coinall
