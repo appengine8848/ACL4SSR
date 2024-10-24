@@ -9,6 +9,10 @@ DOMAIN-KEYWORD,dianping
 #cnouyi
 DOMAIN-KEYWORD,coinall
 
+#exness server
+IP-CIDR,47.100.0.0/16
+IP-CIDR,47.101.0.0.0/16
+
 #finalshell
 IP-CIDR,5.5.5.5/32
 IP-CIDR,101.32.72.0/24
