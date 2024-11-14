@@ -20,7 +20,8 @@ IP-CIDR,119.28.88.0/24
 IP-CIDR,193.9.44.0/24
 DOMAIN-SUFFIX,hostbuf.com
 
-
+#ms
+DOMAIN,officecdn-microsoft-com.akamaized.net
 
 # facebook
 DOMAIN-SUFFIX,facebook.com
