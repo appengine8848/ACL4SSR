@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,hostbuf.com
 #ms
 DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN-SUFFIX,data.microsoft.com
+DOMAIN,tp3.edirect.asia
 
 # facebook
 DOMAIN-SUFFIX,facebook.com
