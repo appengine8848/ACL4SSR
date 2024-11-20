@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,hostbuf.com
 
 #ms
 DOMAIN,officecdn-microsoft-com.akamaized.net
+DOMAIN-SUFFIX,data.microsoft.com
 
 # facebook
 DOMAIN-SUFFIX,facebook.com
