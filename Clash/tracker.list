@@ -19,6 +19,16 @@ IP-CIDR,124.156.154.0/24
 IP-CIDR,119.28.88.0/24
 IP-CIDR,193.9.44.0/24
 DOMAIN-SUFFIX,hostbuf.com
+DOMAIN,www.hostbuf.com
+DOMAIN,backup.www.hostbuf.com
+DOMAIN,www.youtusoft.com
+DOMAIN,youtusoft.com
+DOMAIN,hostbuf.com
+DOMAIN,dkys.org
+DOMAIN,tcpspeed.com
+DOMAIN,www.wn1998.com
+DOMAIN,wn1998.com
+DOMAIN,pwlt.wn1998.com
 
 #ms
 DOMAIN,officecdn-microsoft-com.akamaized.net
