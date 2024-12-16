@@ -5,7 +5,9 @@ DOMAIN-SUFFIX,mmstat.com
 DOMAIN-KEYWORD,linkedin
 DOMAIN-KEYWORD,sogo
 DOMAIN-KEYWORD,dianping
-DOMAIN,self.events.data.microsoft.com
+
+#bilibili
+DOMAIN,ali-web-player-tracker.biliapi.net
 
 #cnouyi
 DOMAIN-KEYWORD,coinall
@@ -30,10 +32,10 @@ DOMAIN,www.wn1998.com
 DOMAIN,wn1998.com
 DOMAIN,pwlt.wn1998.com
 
-#ms
+#MS
 DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN-SUFFIX,data.microsoft.com
-
+DOMAIN,self.events.data.microsoft.com
 
 # facebook
 DOMAIN-SUFFIX,facebook.com
