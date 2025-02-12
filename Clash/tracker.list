@@ -6,6 +6,9 @@ DOMAIN-KEYWORD,linkedin
 DOMAIN-KEYWORD,sogo
 DOMAIN-KEYWORD,dianping
 
+# mac mini app
+DOMAIN,updates.istatmenus.app
+
 #bilibili
 DOMAIN,ali-web-player-tracker.biliapi.net
 
