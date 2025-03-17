@@ -11,6 +11,7 @@ DOMAIN,updates.istatmenus.app
 
 #bilibili
 DOMAIN,ali-web-player-tracker.biliapi.net
+DOMAIN,data.bilibili.com
 
 #cnouyi
 DOMAIN-KEYWORD,coinall
@@ -39,6 +40,9 @@ DOMAIN,pwlt.wn1998.com
 DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN-SUFFIX,data.microsoft.com
 DOMAIN,self.events.data.microsoft.com
+DOMAIN,odc.officeapps.live.com
+DOMAIN,officeci.azurewebsites.net
+DOMAIN,watson.microsoft.com
 
 # facebook
 DOMAIN-SUFFIX,facebook.com
