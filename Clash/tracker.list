@@ -37,6 +37,8 @@ DOMAIN,wn1998.com
 DOMAIN,pwlt.wn1998.com
 
 #MS
+DOMAIN,mobile.events.data.microsoft.com
+DOMAIN,officecdnmac.microsoft.com
 DOMAIN,officecdn-microsoft-com.akamaized.net
 DOMAIN-SUFFIX,data.microsoft.com
 DOMAIN,self.events.data.microsoft.com
