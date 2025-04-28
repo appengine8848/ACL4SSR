@@ -1,6 +1,8 @@
 #CN
 DOMAIN,pixel.zprk.io
 DOMAIN,btrace.qq.com
+DOMAIN,safebrowsing.urlsec.qq.com
+DOMAIN,ctldl.windowsupdate.com
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-KEYWORD,linkedin
 DOMAIN-KEYWORD,sogo
