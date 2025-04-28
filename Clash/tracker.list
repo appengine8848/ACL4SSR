@@ -4,7 +4,9 @@ DOMAIN,btrace.qq.com
 DOMAIN-SUFFIX,mmstat.com
 DOMAIN-KEYWORD,linkedin
 DOMAIN-KEYWORD,sogo
+DOMAIN-KEYWORD,sougo
 DOMAIN-KEYWORD,dianping
+DOMAIN-KEYWORD,cococut
 
 # mac mini app
 DOMAIN,updates.istatmenus.app
