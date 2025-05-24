@@ -18,6 +18,8 @@ DOMAIN,weather.istatmenus.app
 #bilibili
 DOMAIN,ali-web-player-tracker.biliapi.net
 DOMAIN,data.bilibili.com
+DOMAIN-SUFFIX,biliapi.net
+
 
 #cnouyi
 DOMAIN-KEYWORD,coinall
