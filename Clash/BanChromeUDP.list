@@ -1,2 +1,10 @@
 AND,((NETWORK,UDP),(PROCESS-NAME,Google Chrome Helper))
 AND,((NETWORK,UDP),(PROCESS-NAME,Microsoft Edge Helper))
+
+//ytb
+AND,((NETWORK,UDP),(DOMAIN-SUFFIX,googlevideo.com))
+AND,((NETWORK,UDP),(DOMAIN,youtubei.googleapis.com))
+
+//surge
+AND,((PROTOCOL,UDP),(DOMAIN-SUFFIX,googlevideo.com))
+AND,((PROTOCOL,UDP),(DOMAIN,youtubei.googleapis.com))
