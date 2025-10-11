@@ -54,6 +54,7 @@ DOMAIN,self.events.data.microsoft.com
 DOMAIN,odc.officeapps.live.com
 DOMAIN,officeci.azurewebsites.net
 DOMAIN,watson.microsoft.com
+DOMAIN,res.public.onecdn.static.microsoft.com
 
 # facebook
 DOMAIN-SUFFIX,facebook.com
