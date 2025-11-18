@@ -20,4 +20,4 @@ IP-CIDR,150.230.0.0/16,no-resolve
 IP-CIDR,134.185.0.0/16,no-resolve
 
 
-
+DOMAIN-KEYWORD,recaptcha
