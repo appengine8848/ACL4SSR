@@ -11,6 +11,12 @@ DOMAIN-KEYWORD,dianping
 DOMAIN-KEYWORD,cococut
 DOMAIN-KEYWORD,sublimetext
 
+#baidu
+DOMAIN-KEYWORD,bdstatic
+
+#bili
+DOMAIN-SUFFIX,biliapi.net
+
 # mac mini app
 DOMAIN,updates.istatmenus.app
 DOMAIN,weather.istatmenus.app
@@ -55,6 +61,7 @@ DOMAIN,odc.officeapps.live.com
 DOMAIN,officeci.azurewebsites.net
 DOMAIN,watson.microsoft.com
 DOMAIN,res.public.onecdn.static.microsoft
+
 
 # facebook
 DOMAIN-SUFFIX,facebook.com
